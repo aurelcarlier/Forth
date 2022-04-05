@@ -18,6 +18,7 @@ local symbol_table = {} -- table des symboles (fonctions)
 
 local push, pop, dispatch, main_loop
 
+-- lsdkflzidfh
 -- pop()         --> dépile la dernière valeur de la pile `stack`
 -- push(a, ...)  --> empile toutes les valeurs passées en paramètre dans `stack`
 -- dispatch(...) --> procédure appelée pour dispatcher les symboles lus
